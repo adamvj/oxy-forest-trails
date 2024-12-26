@@ -11,7 +11,7 @@ export default function Hero() {
           Welcome to Oxy-Forest Trails
         </h1>
         <p className="text-xl text-white mb-8">
-          Experience sustainable living in the heart of Wayanad's lush landscapes.
+          Experience sustainable living in the heart of Wayanad&nbsps lush landscapes.
           Invest in nature, invest in your future.
         </p>
        </div>
