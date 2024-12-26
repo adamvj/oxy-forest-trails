@@ -1,5 +1,3 @@
-import { Button } from '@/components/ui/button'
-
 export default function Hero() {
   return (
     <section className="relative h-screen flex items-center justify-center text-center">
